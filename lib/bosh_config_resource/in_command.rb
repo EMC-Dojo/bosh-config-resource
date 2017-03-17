@@ -9,7 +9,7 @@ module BoshConfigResource
     end
 
     def run(_working_dir, _request)
-      raise 'not implemented'
+      puts '{"version":{"ref":"none"}}'
     end
 
     private
