@@ -59,4 +59,4 @@ When using BOSH with [UAA authentication](https://bosh.io/docs/director-users-ua
 
 ### `get`: NOT SUPPORTED
 
-Using `get` for this resource type will result in an error.  If you have a reasonable use case for `get` of a config, please let us know in a github issue.
+Using `get` for this resource type will result in a no-op.  If you have a reasonable use case for `get` of a config, please let us know in a github issue.
